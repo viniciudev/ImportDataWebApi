@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H7MYrqXTiID4t0y1exKWHUxWiaCmcQDL14mX1ISOzpE=",
+  "Source": "ImportDataWebApi",
+  "BasePath": "_content/ImportDataWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
