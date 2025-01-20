@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProfControl\\ImportDataWebApi\\ImportDataWebApi.csproj": {}
+    "C:\\Users\\vinic\\Source\\Repos\\ImportDataWebApi\\ImportDataWebApi\\ImportDataWebApi.csproj": {}
   },
   "projects": {
-    "C:\\ProfControl\\ImportDataWebApi\\ImportDataWebApi.csproj": {
+    "C:\\Users\\vinic\\Source\\Repos\\ImportDataWebApi\\ImportDataWebApi\\ImportDataWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProfControl\\ImportDataWebApi\\ImportDataWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\Source\\Repos\\ImportDataWebApi\\ImportDataWebApi\\ImportDataWebApi.csproj",
         "projectName": "ImportDataWebApi",
-        "projectPath": "C:\\ProfControl\\ImportDataWebApi\\ImportDataWebApi.csproj",
+        "projectPath": "C:\\Users\\vinic\\Source\\Repos\\ImportDataWebApi\\ImportDataWebApi\\ImportDataWebApi.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\ProfControl\\ImportDataWebApi\\obj\\",
+        "outputPath": "C:\\Users\\vinic\\Source\\Repos\\ImportDataWebApi\\ImportDataWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.5.3, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.0, )"

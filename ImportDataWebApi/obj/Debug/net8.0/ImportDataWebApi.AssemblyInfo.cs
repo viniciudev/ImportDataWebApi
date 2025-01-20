@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImportDataWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e7ab922dbbfa10a0a573ee8ed39d9cf7e4addb1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82a303d2b2bbdacbb69e860a734f091a2c1fde2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImportDataWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImportDataWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
