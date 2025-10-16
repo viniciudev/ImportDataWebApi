@@ -1,6 +1,6 @@
 # ImportDataWebApi
 
-API em **.NET 8 / ASP.NET Core** para **importação de dados de planilhas (Excel / CSV)** e cadastro automático de clientes em banco **SQL Server**.
+API em **.NET 6 / ASP.NET Core** para **importação de dados de planilhas (Excel / CSV)** e cadastro automático de clientes em banco **SQL Server**.
 
 ---
 
